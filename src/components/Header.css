@@ -1,0 +1,13 @@
+.MainHeader {
+    background-color: #1e3a5f;
+    color: white;
+    padding: 18px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.MainHeader h1 {
+    margin: 0;
+}
